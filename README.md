@@ -13,4 +13,4 @@ Technologies JAVASCRIPT with ReactJS that would represent the design of a Vendin
 
 Usage of git is mandatory.
 
-Here are the problem i encountered while doing the project : ...
+Here are the problem i encountered while doing the project : (To be completed at the end of the test..)
