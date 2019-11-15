@@ -1,18 +1,32 @@
 .App {
   text-align: center;
 }
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: rgba(58, 58, 255, 0.911);
+  text-align: center;
+  padding: 1rem;
+  border: solid;
+}
+
+.product1 {
+  display: grid;
+  flex-direction: column;
+  justify-content: left;
+}
+.product2 {
+  display: grid;
+  flex-direction: column;
+  justify-content: center;
+}
+.product3 {
+  display: grid;
+  flex-direction: column;
+  justify-content: right;
+}
 
 .title {
   text-align: center;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
